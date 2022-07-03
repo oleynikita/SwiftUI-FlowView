@@ -1,2 +1,3 @@
-# SwiftUI-FlowView
-SwiftUI flow view
+# FlowView
+
+A description of this package.
